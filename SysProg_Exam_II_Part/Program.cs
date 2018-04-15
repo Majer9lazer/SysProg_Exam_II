@@ -127,7 +127,6 @@ namespace SysProg_Exam_II_Part
             }
             goto ShowMenu;
         }
-
         public static void Task_6()
         {
             foreach (Process p in Process.GetProcesses())
